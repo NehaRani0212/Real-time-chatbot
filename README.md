@@ -19,7 +19,6 @@ It allows users to send and receive messages instantly.
 ## 📄 How to Run Locally
 
 1. Clone the repository:
-   
-   git clone https://github.com/nehagupta123/Real-time-chatbot.git
+
+   git clone https://github.com/nehagarg4548/Real-time-chatbot.git
    cd Real-time-chatbot
-   
